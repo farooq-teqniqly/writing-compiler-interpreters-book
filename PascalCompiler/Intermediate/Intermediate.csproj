@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>Teqniqly.Compilers.Pascal.Intermediate</AssemblyName>
+    <RootNamespace>Teqniqly.Compilers.Pascal</RootNamespace>
+  </PropertyGroup>
+
+</Project>
